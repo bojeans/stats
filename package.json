@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/bojeans/stats#readme",
   "dependencies": {
+    "@types/node": "^17.0.23",
     "concurrently": "^7.1.0",
     "nodemon": "^2.0.15"
   }
